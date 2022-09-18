@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Cristóbal Contreras @ToboCodes
+- 👀 I’m interested in film, TV, music and computer science.
+- 🌱 I’m currently learning basic database management. I'm on a long journey to learn programming!
+- 💞️ I’m looking to collaborate on basic projects
+- 📫 Reach me by e-mail! ccontreras.cumin@gmail.com
