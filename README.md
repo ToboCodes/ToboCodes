@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Cristóbal Contreras @ToboCodes
-- 👀 I’m interested in film, anime, gaming and computer science.
-- 🌱 I’m currently learning DevOps Skills and looking for new challenges!
+- 👀 I’m interested in Networking, Cybersecurity and AWS.
+- 🌱 Currently learning Cloud Architecture!
 - 📫 Reach me by e-mail! ccontreras.cumin@gmail.com
